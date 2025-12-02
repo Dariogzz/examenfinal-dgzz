@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+  background: orange;
+  color: black;
+  display: flex;
+  flex-direction: column;
+}
